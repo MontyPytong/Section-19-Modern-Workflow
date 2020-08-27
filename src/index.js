@@ -4,4 +4,10 @@ const greet = name => {
 
 greet('mario');
 greet('luigi');
-greet('link');
+greet('mucu');
+
+class User {
+    constructor(){
+        this.score = 0;
+    }
+}
